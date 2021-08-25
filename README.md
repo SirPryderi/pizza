@@ -11,7 +11,7 @@ Don't be afraid to go a little bit expensive when it comes to toppings. Making t
 > 
 > - Master Yoda
 
-# That's you'll need
+# That's what you'll need
 Let's jump into something more practical! The ingredients here should be enough to make 6 medium/small Margherita pizzas.
 
 ## The base
@@ -30,7 +30,7 @@ Let's jump into something more practical! The ingredients here should be enough 
 - Fresh Basil 
 - Salt
 
-# The making
+# The makings
 
 ## The Dough
 One of the most important aspect with the making of pizza dough is that the amount of flour used is not the same, it varies according to factors like the type of water, humidity and temperature. What is directly proportional to the number of pizza you want to make is water (~100 ml for each pizza).
